@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HCI-Prototype/static/css/main.8cd00c54.chunk.css",
+    "main.js": "/HCI-Prototype/static/js/main.6fc217ee.chunk.js",
+    "main.js.map": "/HCI-Prototype/static/js/main.6fc217ee.chunk.js.map",
+    "runtime-main.js": "/HCI-Prototype/static/js/runtime-main.72e350e9.js",
+    "runtime-main.js.map": "/HCI-Prototype/static/js/runtime-main.72e350e9.js.map",
+    "static/css/2.38d87664.chunk.css": "/HCI-Prototype/static/css/2.38d87664.chunk.css",
+    "static/js/2.e891e612.chunk.js": "/HCI-Prototype/static/js/2.e891e612.chunk.js",
+    "static/js/2.e891e612.chunk.js.map": "/HCI-Prototype/static/js/2.e891e612.chunk.js.map",
+    "index.html": "/HCI-Prototype/index.html",
+    "static/css/2.38d87664.chunk.css.map": "/HCI-Prototype/static/css/2.38d87664.chunk.css.map",
+    "static/css/main.8cd00c54.chunk.css.map": "/HCI-Prototype/static/css/main.8cd00c54.chunk.css.map",
+    "static/js/2.e891e612.chunk.js.LICENSE.txt": "/HCI-Prototype/static/js/2.e891e612.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e350e9.js",
+    "static/css/2.38d87664.chunk.css",
+    "static/js/2.e891e612.chunk.js",
+    "static/css/main.8cd00c54.chunk.css",
+    "static/js/main.6fc217ee.chunk.js"
+  ]
+}
