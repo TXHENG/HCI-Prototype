@@ -49,11 +49,11 @@ const Order = ({cart, removeFromCart, setCartNum, clearCart}) => {
 
 	return (<>
 		<div class="flex justify-between p-1">
-			<span className="bg-gray-300 rounded-lg p-2">
+			<a className="bg-gray-300 rounded-lg p-2" href="https://docs.google.com/presentation/d/1czRTPAt1xdnXunni2wLWansxHo6ecmXkvKSb1MpCwm4/edit?usp=sharing" target="_blank">
 				<svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
 					<path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
 				</svg>
-			</span>
+			</a>
 				<h1 className="font-bold">Order Check Out</h1>
 			<Link to="/" className="bg-gray-300 rounded-lg p-2 relative">
 				<svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
